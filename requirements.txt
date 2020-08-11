@@ -1,1 +1,9 @@
 mozilla_aws_cli>=1.1.0
+mo-dots
+mo-kwargs>=3.88.20218
+mo-logs>=3.88.20218
+mo-threads>=3.88.20218
+mo-math
+mo-times
+mo-json
+mo-files
